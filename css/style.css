@@ -19,7 +19,7 @@ header{
     height: 1294px;
     left: 0px;
     top: -1px;
-    background: url(/img/bg.png) center / 1600px 1294px no-repeat;
+    background: url(img/bg.png) center / 1600px 1294px no-repeat;
 }
 h1{
     position: absolute;
